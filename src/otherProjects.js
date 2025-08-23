@@ -31,8 +31,8 @@ const otherProjects = [
             <a href="https://addons.mozilla.org/en-US/firefox/addon/toki-pona-dictionary/">Firefox</a>,
             or visit the <a href="https://github.com/IanC27/ilo_nimi_pi_toki_pona">source code</a>
         </p>
-        <img src="toki/dict-screenshot-1.png" alt="a screenshot of the extention's popup showing the definition, emoji, and other info for the toki pona word 'sin'">
-        <img src="toki/settings.PNG" alt="a screenshot of the extention's settings page">
+        <img src="toki/chrome_popup.png" alt="a screenshot of the extention's popup showing the definition, symbol, and other info for the toki pona word 'sijelo'">
+        <img src="toki/ff_settings.png" alt="a screenshot of the extention's settings page" width="50%">
 
         <p>
             The extension can display definitions in multiple languages, show different symbols, and play audio clips of pronunciation.
@@ -56,6 +56,7 @@ const otherProjects = [
             using existing resources 
             (thanks again to <a href="https://linku.la/about/">Linku</a>)
         </p>
+        <strong>This project is curretly broken as the old data source it relied on is no longer available. It needs to be updated to work with the latest version of the Linku API</strong>
         <p>to get dictionaries you can either 
             <a href="https://github.com/IanC27/lipu_nimi_pi_toki_pona">build from source</a> 
             or download one from 
