@@ -63,7 +63,7 @@ function Project({content, title, roles, skills, images}) {
               my name is 
             </Typography>
             <Typography sx={{"textAlign":"center","fontSize":"4rem","color":"secondary.main"}} variant='h4'>
-              Ian C.
+              Maye
             </Typography>
         </NameTag>
       </Link>

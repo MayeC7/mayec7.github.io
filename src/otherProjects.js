@@ -29,7 +29,7 @@ const otherProjects = [
         <p>
             Available for <a href="https://chrome.google.com/webstore/detail/toki-pona-dictionary/cccekjhkcfnbfdkimklpaednfcekcbac?hl=en&authuser=2">Google Chrome</a> and 
             <a href="https://addons.mozilla.org/en-US/firefox/addon/toki-pona-dictionary/">Firefox</a>,
-            or visit the <a href="https://github.com/IanC27/ilo_nimi_pi_toki_pona">source code</a>
+            or visit the <a href="https://github.com/MayeC7/ilo_nimi_pi_toki_pona">source code</a>
         </p>
         <img src="toki/chrome_popup.png" alt="a screenshot of the extention's popup showing the definition, symbol, and other info for the toki pona word 'sijelo'">
         <img src="toki/ff_settings.png" alt="a screenshot of the extention's settings page" width="50%">
@@ -58,9 +58,9 @@ const otherProjects = [
         </p>
         <strong>This project is curretly broken as the old data source it relied on is no longer available. It needs to be updated to work with the latest version of the Linku API</strong>
         <p>to get dictionaries you can either 
-            <a href="https://github.com/IanC27/lipu_nimi_pi_toki_pona">build from source</a> 
+            <a href="https://github.com/MayeC7/lipu_nimi_pi_toki_pona">build from source</a> 
             or download one from 
-            <a href="https://github.com/IanC27/lipu_nimi_pi_toki_pona/releases">releases</a></p>
+            <a href="https://github.com/MayeC7/lipu_nimi_pi_toki_pona/releases">releases</a></p>
     </section>
     </main>
     `

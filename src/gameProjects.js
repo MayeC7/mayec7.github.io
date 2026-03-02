@@ -72,8 +72,8 @@ const gameProjects = [
 
     <ul>
     <li>Producer: Ethan Nguyen</li>
-    <li>Writing: Ethan Nguyen, Ian Cowan</li>
-    <li>Programming: Kofi Quansah, Mrinmoyee Mishra, Ethan Nguyen, Ian Cowan</li>
+    <li>Writing: Ethan Nguyen, Maye Cowan</li>
+    <li>Programming: Kofi Quansah, Mrinmoyee Mishra, Ethan Nguyen, Maye Cowan</li>
     <li>Music and Sound Design: Omar Bahlool</li>
     <li>Character Design/Art: Kennedy Thomas</li>
     <li>UI Design/Art: Marshall Zhao, Ethan Nguyen</li>
@@ -113,7 +113,7 @@ const gameProjects = [
     <h3>Credits</h3>
     <ul>
     <li>Ethan Nguyen - Programming, Music</li>
-    <li>Ian Cowan - Programming</li>
+    <li>Maye Cowan - Programming</li>
     <li>Kofi Quansah - Programming</li>
     <li>Mrinmoyee Mishra - Programming</li>
     <li>Robert Newlin - 3D Art</li>
@@ -155,13 +155,13 @@ const gameProjects = [
     </p>
     <h3>Credits</h3>
     <ul>
-          <li>Programming: Ian Cowan and Jason Chen</li>
-          <li>Art: Nic Stepp, Chris Pau, and Ian</li>
+          <li>Programming: Maye Cowan and Jason Chen</li>
+          <li>Art: Nic Stepp, Chris Pau, and Maye</li>
           <li>Music: Chris</li>
-          <li>Sounds: Chris and Ian</li>
+          <li>Sounds: Chris and Maye</li>
         </ul>
     
-    <a href="https://chrispy-chxcken.itch.io/ss-odyssey"> Play on itch.io</a> or <a href="https://github.com/IanC27/Spaceship-Odyssey"> view the source</a>
+    <a href="https://chrispy-chxcken.itch.io/ss-odyssey"> Play on itch.io</a> or <a href="https://github.com/MayeC7/Spaceship-Odyssey"> view the source</a>
     `
   },
   {
@@ -214,7 +214,7 @@ const gameProjects = [
     <h3>Credits</h3>
     <ul>
       <li>Art and Animation by Emery Plyler and Sadie Hower</li>
-      <li>Programming by Ian Cowan,&nbsp;Salil Tantamjarik,&nbsp;Ethan Nguyen,&nbsp;Nathan Laureta, and&nbsp;Christopher Pau.</li>
+      <li>Programming by Maye Cowan,&nbsp;Salil Tantamjarik,&nbsp;Ethan Nguyen,&nbsp;Nathan Laureta, and&nbsp;Christopher Pau.</li>
       <li>Music and SFX by Sadie Hower</li>
     </ul>
     <h3> Documents </h3>

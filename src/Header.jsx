@@ -52,7 +52,7 @@ export default function Header() {
             variant='h5' 
             color="inherit"
           >
-            Ian C.
+            Maye
           </Link>
          )}
         </Stack>
